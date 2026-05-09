@@ -1,317 +1,595 @@
-<h1 dir="auto"><a id="user-content-️-Brandon-E-Ramirez" class="anchor" aria-hidden="true" href="#️-Brandon-E-Ramirez"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2642.png">🐢</g-emoji> Brandon E Ramirez <@yaboi_ramirez/>! </h1>
-<!--
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=B8BB26AC&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" /></a>-->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Josue Lopez – GitHub Profile Preview</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #21262d;
+    --accent: #58a6ff;
+    --accent2: #3fb950;
+    --accent3: #f78166;
+    --accent4: #d2a8ff;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --card: #1c2128;
+  }
 
-<p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" class="center" style="text-align: center;"/></a>
-</p> 
+  * { box-sizing: border-box; margin: 0; padding: 0; }
 
-> <i>"If you can't explain it simply, you don't understand it well enough."</i> – Albert Einstein
-<p align="left">
-	
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
-![wakatime](https://wakatime.com/badge/user/5c935070-0770-4681-a15d-9ebfd498125c.svg?style=flat-square)
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/brandon-e-ramirez?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brandon-e-ramirez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://digital-crafting.hashnode.dev/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-e-ramirez/)
-[![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.evaristo.ramirez@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yaboi_sakurai/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17468188/yaboi-ramirez)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Brandon-E-Ramirez)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/yaboi_sakurai#6951)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaboi_ramirez/)
-<!-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) -->
-</p>
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
 
-```
-				Digital Craftsman: (Creator/Programmer/Problem Solver)...
+  /* Grid noise texture overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      repeating-linear-gradient(0deg, transparent, transparent 39px, rgba(33,38,45,0.4) 39px, rgba(33,38,45,0.4) 40px),
+      repeating-linear-gradient(90deg, transparent, transparent 39px, rgba(33,38,45,0.4) 39px, rgba(33,38,45,0.4) 40px);
+    pointer-events: none;
+    z-index: 0;
+  }
 
-██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗ ███╗   ██╗  ██████╗  █████╗ ███╗   ███╗██╗██████╗ ███████╗███████╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗████╗  ██║  ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗██╔════╝╚══███╔╝
-██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║██╔██╗ ██║  ██████╔╝███████║██╔████╔██║██║██████╔╝█████╗    ███╔╝ 
-██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║   ██║██║╚██╗██║  ██╔══██╗██╔══██║██║╚██╔╝██║██║██╔══██╗██╔══╝   ███╔╝  
-██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝██║ ╚████║  ██║  ██║██║  ██║██║ ╚═╝ ██║██║██║  ██║███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-```
+  .wrapper {
+    position: relative;
+    z-index: 1;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+  }
 
+  /* ── HERO ── */
+  .hero {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 3rem;
+    animation: fadeUp 0.7s ease both;
+  }
 
-<p>
-Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux, and open source! :) 
-</p> 
+  .hero-name {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(2.4rem, 6vw, 4rem);
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    background: linear-gradient(135deg, #e6edf3 0%, #58a6ff 60%, #d2a8ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
 
-<img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
+  .hero-handle {
+    font-size: 1rem;
+    color: var(--accent);
+    letter-spacing: 0.08em;
+    opacity: 0.85;
+  }
 
-```yaml
-name: Brandon Evaristo Ramirez
-located_in: Houston, Texas
-current_job: Student, Coding Sensei @ Code Ninjas
-stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
-usernames: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
-email: brandon.evaristo.ramirez@gmail.com
-resume: "https://external.ink?to=/rb.gy/cnjkwt"
-blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
-dot_url: "https://dot.cards/brandon_e_ramirez"
-education:
-[
-  "University of Houston - Clear Lake: Bachelors in Computer Science",
-  "Galveston College: Associates of Science (General Studies)"
-]
-currently_studying: ["Python", "C++", "React"]
-field_of_interests: ["machine learning", "robotics", "computer graphics"]
-soft-skills: ["attention to details", "hard working", "time management"]
-misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
-2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
-```
+  /* Typing SVG replacement */
+  .typing-banner {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.6rem 1.2rem;
+    font-size: 0.82rem;
+    color: var(--accent2);
+    overflow: hidden;
+    white-space: nowrap;
+    width: fit-content;
+    max-width: 100%;
+  }
 
-<table style="width:100%">
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
- Languages and Tools</td>
-<td>
-	
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<img align="left"  width="24" height="30" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png">
-<img align="left"  width="30" height="30" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/02/d6/3402d69f-7185-2fa7-1e4c-96c5cf4aecb7/source/512x512bb.jpg">
-</td>
-</tr>
+  .typing-banner span {
+    display: inline-block;
+    border-right: 2px solid var(--accent2);
+    animation: blink 0.8s step-end infinite, typing 4s steps(60) 0.5s both;
+    overflow: hidden;
+    max-width: 0;
+  }
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">⚙️</g-emoji>
-Frameworks</td>
-    <td>
+  @keyframes typing { to { max-width: 600px; } }
+  @keyframes blink { 50% { border-color: transparent; } }
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-    </td>
-</tr>
+  .quote {
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-style: italic;
+    border-left: 3px solid var(--accent);
+    padding-left: 0.8rem;
+    margin-top: 0.2rem;
+  }
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🛠️</g-emoji>	
-IDEs/Tools</td>
-    <td>
-	    
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
- <a href="https://i3wm.org/">
-  <img align="left"  width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg">
-</a> 
- <a href="https://terminator-gtk3.readthedocs.io/en/latest/">
-  <img align="left"  width="28" height="30" src="https://terminator-gtk3.readthedocs.io/en/latest/_images/icon_terminator.png">
-</a> 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![p5js Editor](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    </td>
-</tr>
+  /* ── BADGES ── */
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2.5rem;
+    animation: fadeUp 0.7s 0.1s ease both;
+  }
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📀</g-emoji>	
-OS</td>
-    <td>
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.72rem;
+    color: var(--text);
+    text-decoration: none;
+    transition: border-color 0.2s, transform 0.2s;
+  }
 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-    </td>
-</tr>
+  .badge:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
-Misc Tools</td>
-    <td>
-	    
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-<img width="30" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-    </td>
-</tr>
+  .badge .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📖</g-emoji>	
-Documentation/Learning</td>
-    <td>
-	    
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-    </td>
-</tr>
-</table>
+  /* ── ASCII BLOCK ── */
+  .ascii-block {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 2.5rem;
+    overflow-x: auto;
+    animation: fadeUp 0.7s 0.2s ease both;
+  }
 
-<p align="center">
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfPython)](https://github.com/Brandon-E-Ramirez/30DaysOfPython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfReact)](https://github.com/Brandon-E-Ramirez/30DaysOfReact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfJS)](https://github.com/Brandon-E-Ramirez/30DaysOfJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=p5.js_sketches)](https://github.com/Brandon-E-Ramirez/p5.js_sketches)
-</p>
+  .ascii-art {
+    font-size: clamp(0.28rem, 1.1vw, 0.48rem);
+    line-height: 1.2;
+    color: var(--accent);
+    white-space: pre;
+    display: block;
+    margin-bottom: 1rem;
+  }
 
+  .profile-card {
+    font-size: 0.75rem;
+    line-height: 1.9;
+    color: var(--text);
+  }
 
-<!--
-<div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  .profile-card .key { color: var(--accent4); }
+  .profile-card .val { color: var(--accent2); }
+  .profile-card .str { color: var(--accent3); }
+  .profile-card .arr { color: var(--muted); }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  /* ── SECTION TITLE ── */
+  .section-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"><img align="left" alt="JavaScript" width="30px" src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  /* ── TECH TABLE ── */
+  .tech-section {
+    margin-bottom: 2.5rem;
+    animation: fadeUp 0.7s 0.3s ease both;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"><img align="left" alt="HTML" width="30px" src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>	
-	
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"><img align="left" alt="CSS" width="30px" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  .tech-grid {
+    display: grid;
+    gap: 0.8rem;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"><img align="left" alt="Git" width="30px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  .tech-row {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.8rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667"><img align="left" alt="Bash" width="30px" src="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
+  .tech-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    min-width: 90px;
+    flex-shrink: 0;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
-data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>
+  .tech-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"><img align="left" alt="Linux" width="30px" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"></a></p>
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.65rem;
+    border-radius: 6px;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img align="left" alt="GitHub" width="30px" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></p>
+  /* ── STATS ── */
+  .stats-section {
+    margin-bottom: 2.5rem;
+    animation: fadeUp 0.7s 0.4s ease both;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img align="left" alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a></p>
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a></p>
+  .stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.2rem;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="NET CORE" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>
+  .stat-card:hover { border-color: var(--accent); }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), var(--accent4));
+  }
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>	
+  .stat-img {
+    width: 100%;
+    border-radius: 6px;
+    display: block;
+  }
+
+  /* ── PINNED REPOS ── */
+  .repos-section {
+    margin-bottom: 2.5rem;
+    animation: fadeUp 0.7s 0.5s ease both;
+  }
+
+  .repos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+
+  .repo-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    text-decoration: none;
+    color: var(--text);
+    transition: border-color 0.2s, transform 0.2s;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .repo-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-3px);
+  }
+
+  .repo-name {
+    font-family: 'Syne', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  .repo-desc {
+    font-size: 0.7rem;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  .repo-lang {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin-top: auto;
+  }
+
+  .lang-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  /* ── ACTIVITY GRAPH ── */
+  .activity-section {
+    margin-bottom: 2.5rem;
+    animation: fadeUp 0.7s 0.6s ease both;
+  }
+
+  .activity-embed {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .activity-embed img {
+    width: 100%;
+    display: block;
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    text-align: center;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 3rem;
+    animation: fadeUp 0.7s 0.7s ease both;
+  }
+
+  .footer a { color: var(--accent); text-decoration: none; }
+
+  /* ── DIVIDER ── */
+  .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+    margin: 2rem 0;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- ── HERO ── -->
+  <header class="hero">
+    <div class="hero-name">Josue Lopez</div>
+    <div class="hero-handle">@josue322</div>
+    <div class="typing-banner">
+      <span>👋 ¡Hola! Soy desarrollador apasionado por construir soluciones reales · Open Source · Always Learning</span>
+    </div>
+    <p class="quote">"Si no puedes explicarlo de forma sencilla, es que no lo entiendes lo suficientemente bien." – Albert Einstein</p>
+  </header>
+
+  <!-- ── BADGES / REDES ── -->
+  <div class="badges">
+    <a class="badge" href="https://github.com/josue322" target="_blank">
+      <span class="dot" style="background:#58a6ff"></span>GitHub
+    </a>
+    <a class="badge" href="https://github.com/josue322?tab=followers" target="_blank">
+      <span class="dot" style="background:#3fb950"></span>Followers
+    </a>
+    <a class="badge" href="mailto:tuemail@gmail.com">
+      <span class="dot" style="background:#f78166"></span>Gmail
+    </a>
+    <a class="badge" href="https://www.linkedin.com/in/josue322" target="_blank">
+      <span class="dot" style="background:#0a66c2"></span>LinkedIn
+    </a>
+    <a class="badge" href="https://twitter.com/josue322" target="_blank">
+      <span class="dot" style="background:#1d9bf0"></span>Twitter
+    </a>
+    <!-- Estadísticas dinámicas via shields.io -->
+    <img src="https://img.shields.io/github/followers/josue322?label=Followers&style=flat-square&color=58a6ff&labelColor=161b22" alt="followers" style="height:28px;border-radius:20px;">
+    <img src="https://img.shields.io/github/stars/josue322?label=Stars&style=flat-square&color=3fb950&labelColor=161b22" alt="stars" style="height:28px;border-radius:20px;">
+  </div>
+
+  <!-- ── ASCII + PROFILE DATA ── -->
+  <div class="ascii-block">
+    <code class="ascii-art">
+     ██╗ ██████╗ ███████╗██╗   ██╗███████╗    ██╗      ██████╗ ██████╗ ███████╗███████╗
+     ██║██╔═══██╗██╔════╝██║   ██║██╔════╝    ██║     ██╔═══██╗██╔══██╗██╔════╝╚════██║
+     ██║██║   ██║███████╗██║   ██║█████╗      ██║     ██║   ██║██████╔╝█████╗      ██╔╝
+██   ██║██║   ██║╚════██║██║   ██║██╔══╝      ██║     ██║   ██║██╔═══╝ ██╔══╝     ██╔╝ 
+╚█████╔╝╚██████╔╝███████║╚██████╔╝███████╗    ███████╗╚██████╔╝██║     ███████╗   ██║  
+ ╚════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝   ╚═╝  
+    </code>
+
+    <div class="profile-card">
+<span class="key">name</span>: <span class="str">"Josue Lopez"</span><br>
+<span class="key">username</span>: <span class="str">"@josue322"</span><br>
+<span class="key">github</span>: <span class="str">"https://github.com/josue322"</span><br>
+<span class="key">currently_learning</span>: <span class="arr">["JavaScript", "Python", "React", "Node.js"]</span><br>
+<span class="key">interests</span>: <span class="arr">["desarrollo web", "open source", "automatización", "bases de datos"]</span><br>
+<span class="key">soft_skills</span>: <span class="arr">["atención al detalle", "trabajo en equipo", "autodidacta", "resolución de problemas"]</span><br>
+<span class="key">2025_goals</span>: <span class="arr">["contribuir a proyectos OSS", "construir portfolio sólido", "conseguir rol como dev"]</span><br>
+<span class="key">fun_fact</span>: <span class="str">"Siempre hay algo nuevo por aprender 🚀"</span>
+    </div>
+  </div>
+
+  <!-- ── TECH STACK ── -->
+  <section class="tech-section">
+    <div class="section-title">🧰 Stack & Herramientas</div>
+    <div class="tech-grid">
+
+      <div class="tech-row">
+        <span class="tech-label">💻 Lenguajes</span>
+        <div class="tech-badges">
+          <span class="pill" style="background:#1c3a1c;color:#3fb950;">JavaScript</span>
+          <span class="pill" style="background:#1c2e3a;color:#58a6ff;">Python</span>
+          <span class="pill" style="background:#3a1c1c;color:#f78166;">HTML5</span>
+          <span class="pill" style="background:#2a1c3a;color:#d2a8ff;">CSS3</span>
+          <span class="pill" style="background:#1c1c2e;color:#79c0ff;">SQL</span>
+        </div>
+      </div>
+
+      <div class="tech-row">
+        <span class="tech-label">⚙️ Frameworks</span>
+        <div class="tech-badges">
+          <span class="pill" style="background:#1c2e3a;color:#61dafb;">React</span>
+          <span class="pill" style="background:#1c3a1c;color:#68a063;">Node.js</span>
+          <span class="pill" style="background:#1c1c2e;color:#d2a8ff;">Express</span>
+          <span class="pill" style="background:#2e2a1c;color:#f0db4f;">Vue</span>
+        </div>
+      </div>
+
+      <div class="tech-row">
+        <span class="tech-label">🛠️ Herramientas</span>
+        <div class="tech-badges">
+          <span class="pill" style="background:#2e1c1c;color:#f05032;">Git</span>
+          <span class="pill" style="background:#1c1c1c;color:#e6edf3;">GitHub</span>
+          <span class="pill" style="background:#1c2e3a;color:#007acc;">VS Code</span>
+          <span class="pill" style="background:#1c3a1c;color:#3fb950;">MySQL</span>
+          <span class="pill" style="background:#1c2e2e;color:#47a248;">MongoDB</span>
+        </div>
+      </div>
+
+      <div class="tech-row">
+        <span class="tech-label">📀 SO</span>
+        <div class="tech-badges">
+          <span class="pill" style="background:#1c1c2e;color:#0078d6;">Windows</span>
+          <span class="pill" style="background:#2e1c1c;color:#f78166;">Linux</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- ── GITHUB STATS ── -->
+  <section class="stats-section">
+    <div class="section-title">📊 GitHub Stats</div>
+    <div class="stats-grid">
+      <div class="stat-card">
+        <img
+          class="stat-img"
+          src="https://github-readme-stats.vercel.app/api?username=josue322&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=1c2128&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3"
+          alt="Josue Lopez GitHub Stats"
+        >
+      </div>
+      <div class="stat-card">
+        <img
+          class="stat-img"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=josue322&layout=compact&theme=github_dark&hide_border=true&bg_color=1c2128&title_color=58a6ff&text_color=e6edf3"
+          alt="Top Languages"
+        >
+      </div>
+      <div class="stat-card" style="grid-column: 1 / -1;">
+        <img
+          class="stat-img"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=josue322&theme=github-dark-blue&hide_border=true&background=1c2128&stroke=21262d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff"
+          alt="GitHub Streak"
+        >
+      </div>
+    </div>
+  </section>
+
+  <!-- ── REPOS DESTACADOS ── -->
+  <section class="repos-section">
+    <div class="section-title">📌 Repositorios Destacados</div>
+    <div class="repos-grid">
+      <a class="repo-card" href="https://github.com/josue322" target="_blank">
+        <span class="repo-name">📁 josue322</span>
+        <span class="repo-desc">Mi perfil de GitHub — README personalizado con estadísticas y stack.</span>
+        <span class="repo-lang"><span class="lang-dot" style="background:#f0db4f"></span>Markdown</span>
+      </a>
+      <a class="repo-card" href="https://github.com/josue322?tab=repositories" target="_blank">
+        <span class="repo-name">🌐 Mis Proyectos</span>
+        <span class="repo-desc">Colección de proyectos de desarrollo web, scripts y experimentos.</span>
+        <span class="repo-lang"><span class="lang-dot" style="background:#f7df1e"></span>JavaScript</span>
+      </a>
+      <a class="repo-card" href="https://github.com/josue322?tab=repositories" target="_blank">
+        <span class="repo-name">🐍 Scripts Python</span>
+        <span class="repo-desc">Automatizaciones, herramientas CLI y scripts de utilidad en Python.</span>
+        <span class="repo-lang"><span class="lang-dot" style="background:#3572A5"></span>Python</span>
+      </a>
+      <a class="repo-card" href="https://github.com/josue322?tab=repositories" target="_blank">
+        <span class="repo-name">⚛️ React Apps</span>
+        <span class="repo-desc">Aplicaciones frontend construidas con React y tecnologías modernas.</span>
+        <span class="repo-lang"><span class="lang-dot" style="background:#61dafb"></span>React</span>
+      </a>
+    </div>
+    <p style="font-size:0.65rem;color:var(--muted);margin-top:0.7rem;">
+      * Actualiza los nombres/links de repos con tus proyectos reales en tu README.md
+    </p>
+  </section>
+
+  <!-- ── ACTIVITY GRAPH ── -->
+  <section class="activity-section">
+    <div class="section-title">📈 Actividad</div>
+    <div class="activity-embed">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=josue322&theme=react-dark&hide_border=true&bg_color=1c2128&color=58a6ff&line=3fb950&point=f78166"
+        alt="GitHub Activity Graph"
+      >
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- ── TROFEOS ── -->
+  <section style="margin-bottom:2.5rem; animation: fadeUp 0.7s 0.65s ease both;">
+    <div class="section-title">🏆 Trofeos</div>
+    <div style="background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden;">
+      <img
+        style="width:100%;display:block;"
+        src="https://github-profile-trophy.vercel.app/?username=josue322&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
+        alt="GitHub Trophies"
+      >
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer class="footer">
+    <p>Hecho con ❤️ por <a href="https://github.com/josue322">@josue322</a> · Josue Lopez</p>
+    <p style="margin-top:0.3rem;">
+      Inspirado en el template de
+      <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates" target="_blank">awesome-github-profile-readme-templates</a>
+    </p>
+    <p style="margin-top:0.5rem;color:#3b4048;">
+      ── Para usar en GitHub: convierte este HTML a Markdown con las URLs de imágenes de shields.io y github-readme-stats ──
+    </p>
+  </footer>
+
 </div>
-</div>
--->
-<!--
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="120" height="50" />
-<!--<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" height="80" />-->
-</div> 
-
-<div>
-<hr>
-</div>
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-<!--
-<div style="display: inline-block; overflow: hidden;">
-<img src="https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif" height="300" align="center" />
-<img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center"/> 
-</div>-->
-
-|There is always something new to learn|Trying get some code done every day I can|
-|:-:|:-:|
-|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
-
-
-<br>
-
-<div>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
-</p>
-</div>
-
-<div style="display: inline-block; overflow: hidden;">
-<img src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif" height="265" align="center"/>
-<img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
-</div>
-
-
-
- <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
-
-  [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yaboi_ramirez/6faa0a63-b850-4df7-9317-7926e8011163.png" /></a>
-</p>
-<p align="center">
- <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-</p>
-<!---
-```
-				       _=|_
-				     _[_## ]_
-				_  +[_[_+_]P/    _    |_       ____      _=--|-~
-				 ~---\_I_I_[=\--~ ~~--[o]--==-|##==]-=-~~  o]H
-				-~ /[_[_|_]_]\\  -_  [[=]]    |====]  __  !j]H
-				  /    "|"    \      ^U-U^  - |    - ~ .~  U/~
-				 ~~--__~~~--__~~-__   H_H_    |_     --   _H_
-				-. _  ~~~#######~~~     ~~~-    ~~--  ._ - ~~-=
-				           ~~~=~~  -~~--  _     . -      _ _ -
-				
-				       ----------------------------------
-				      |        June, 20th, 1969          |
-				      |  Here Men from the Planet Earth  |
-				      |   First set Foot upon the Moon   |
-				      | We came in Peace for all Mankind |
-				       ---------------------------=apx=--
-```
--->
-<!---
-Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-------
-Credit: [Brandon-E-Ramirez](https://github.com/Brandon-E-Ramirez)
-Last Edited on: 08/08/2023
+</body>
+</html>
