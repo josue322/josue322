@@ -20,8 +20,8 @@
 
 ---
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1194745444627120278) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hanseeka_12?igsh=MTZpeXJ6Y3pnZzM0bg==) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/736809225472180284) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuelopez322)
  [![GitHub followers](https://img.shields.io/github/followers/josue322?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github)](https://github.com/josue322?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/josue322?label=Stars&style=or-the-badge&color=3fb950&labelColor=161b22&logo=github)](https://github.com/josue322)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanseekakumari.6556@gmail.com) 
@@ -87,7 +87,6 @@ fun_fact: "Siempre hay algo nuevo por aprender 🚀"
 
 </div>
 
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <picture>
@@ -95,7 +94,6 @@ fun_fact: "Siempre hay algo nuevo por aprender 🚀"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
----
 
 <div align="center">
 
