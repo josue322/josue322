@@ -8,12 +8,16 @@
 > *"Si no puedes explicarlo de forma sencilla, es que no lo entiendes lo suficientemente bien."* – Albert Einstein
 
 <!-- Badges de redes -->
-[![GitHub followers](https://img.shields.io/github/followers/josue322?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github)](https://github.com/josue322?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/josue322?label=Stars&style=or-the-badge&color=3fb950&labelColor=161b22&logo=github)](https://github.com/josue322)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 </div>
 
+---
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1194745444627120278) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hanseeka_12?igsh=MTZpeXJ6Y3pnZzM0bg==) 
+ [![GitHub followers](https://img.shields.io/github/followers/josue322?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github)](https://github.com/josue322?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/josue322?label=Stars&style=or-the-badge&color=3fb950&labelColor=161b22&logo=github)](https://github.com/josue322)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanseekakumari.6556@gmail.com) 
 ---
 
 ## 👨‍💻 Sobre mí
@@ -47,14 +51,6 @@ fun_fact: "Siempre hay algo nuevo por aprender 🚀"
 
 ---
 
-## 📌 Proyectos Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue322&repo=inventario&theme=github_dark&hide_border=true&bg_color=161b22)](https://github.com/josue322/inventario)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue322&repo=ticket-system&theme=github_dark&hide_border=true&bg_color=161b22)](https://github.com/josue322/ticket-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue322&repo=passwordgen&theme=github_dark&hide_border=true&bg_color=161b22)](https://github.com/josue322/passwordgen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue322&repo=hunt&theme=github_dark&hide_border=true&bg_color=161b22)](https://github.com/josue322/hunt)
-
----
 
 ## 📊 GitHub Stats
 
@@ -85,7 +81,10 @@ fun_fact: "Siempre hay algo nuevo por aprender 🚀"
 </div>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
 <div align="center">
@@ -95,3 +94,10 @@ Hecho con ❤️ por [@josue322](https://github.com/josue322) · **Josue Lopez**
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer)
 
 </div>
+
+
+
+
+
+
+
