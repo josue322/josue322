@@ -1,7 +1,14 @@
 <!-- Encabezado animado -->
 <div align="center">
 
-# 🚀 Josue Lopez `<@josue322/>`
+```
+     ██╗ ██████╗ ███████╗██╗   ██╗███████╗    ██╗      ██████╗ ██████╗ ███████╗███████╗
+     ██║██╔═══██╗██╔════╝██║   ██║██╔════╝    ██║     ██╔═══██╗██╔══██╗██╔════╝╚════██║
+     ██║██║   ██║███████╗██║   ██║█████╗      ██║     ██║   ██║██████╔╝█████╗      ██╔╝ 
+██   ██║██║   ██║╚════██║██║   ██║██╔══╝      ██║     ██║   ██║██╔═══╝ ██╔══╝     ██╔╝  
+╚█████╔╝╚██████╔╝███████║╚██████╔╝███████╗    ███████╗╚██████╔╝██║     ███████╗   ██║   
+ ╚════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝   ╚═╝  
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+¡Hola!+Soy+Josue+Lopez;Desarrollador+apasionado+por+el+código;Open+Source+%7C+Always+Learning+🚀;Construyendo+soluciones+reales+💡)](https://git.io/typing-svg)
 
