@@ -88,10 +88,13 @@ fun_fact: "Siempre hay algo nuevo por aprender 🚀"
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ---
 
 <div align="center">
