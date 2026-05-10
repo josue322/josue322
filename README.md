@@ -20,11 +20,11 @@
 
 ---
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/736809225472180284) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/736809225472180284)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuelopez322)
- [![GitHub followers](https://img.shields.io/github/followers/josue322?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github)](https://github.com/josue322?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/josue322?label=Stars&style=or-the-badge&color=3fb950&labelColor=161b22&logo=github)](https://github.com/josue322)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanseekakumari.6556@gmail.com) 
+[![GitHub followers](https://img.shields.io/github/followers/josue322?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github)](https://github.com/josue322?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/josue322?label=Stars&style=for-the-badge&color=3fb950&labelColor=161b22&logo=github)](https://github.com/josue322)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuexd123lc@gmail.com)
 ---
 
 ## 👨‍💻 Sobre mí
